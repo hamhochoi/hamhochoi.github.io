@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "How to win Data Science competetion: Learn from Top Kaggler"
 permalink: /blog
 ---
