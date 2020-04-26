@@ -7,4 +7,4 @@ permalink: /blog
 
 All my blog posts
 
-1. [How to win Data Science competition: Learn from top Kaggler](/_posts/how-to-win-data-science-competition-learn-from-top-kaggler/README.md)
+1. [How to win Data Science competition: Learn from top Kaggler](/how-to-win-data-science-competition-learn-from-top-kaggler/README.md)
