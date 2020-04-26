@@ -1,6 +1,6 @@
 ---
 layout: page
 title: "TEST"
-permalink: hamhochoi.github.io/test
+permalink: /test
 ---
 This is a testing page
