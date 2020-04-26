@@ -1,6 +1,5 @@
 ---
 layout: page
-layout: post-index
 title: "Blog hamhochoi"
 title: All Blog Posts
 permalink: /blog
