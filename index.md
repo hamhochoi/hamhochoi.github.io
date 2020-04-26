@@ -9,3 +9,5 @@ This is my blog
 - Machine Learning
 - [GitHub Pages](https://github.com/hamhochoi)
 - Data Analytics
+
+## [My blog](https://hamhochoi.github.io/blog)
