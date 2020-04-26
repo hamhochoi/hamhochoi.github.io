@@ -6,4 +6,6 @@ title: All Blog Posts
 permalink: /blog
 ---
 
+All my blog posts
+
 1. [How to win Data Science competition: Learn from top Kaggler](/_posts/2020-04-26-online-course.md)
