@@ -58,3 +58,55 @@ title: "How to win Data Science competetion: Learn from Top Kaggler"
 ### Code organization: 
 - Using macro (store many codes in one-line-of-code). 
 - Custom library (your self develop library) that implement frequent operations code. (Advanced).
+
+### Pipeline
+![](../images/ML_pipeline.png) 
+
+- Understanding broadly the problem (1 day)
+  - Type of problem: Type of data? Is there tabular data / categorical data / Time series / does time matter, ...?
+  - How BIG is data?
+  - Hardware needed? (CPUs, GPUs, RAM, Disk space)
+  - Software needed? (sklearn, TF, xgboost, LightGMB, ...)
+  - What is the metric?
+- EDA (1-2 days)
+  - See how consistent training / testing data is? Plot histogram of variables and check that if a feature looks similar in train and test set (big discrepency make troubles).
+  - Plot features versus target variable and versus time (if time available). This helps us see how time (day/month/...) affect in the dataset.
+  - Binning numerical features and correlation matrices.
+- Cross validation strategy (belonds to EDA)
+  - This step is critical. 
+  - Is time important? Split by time. Time-based validation.
+  - Is it totally random? Random validation (random K-Fold).
+  - Combine all above.
+  - Use test leader board to see if validation score correlate with leaderboard score.
+- Feature Engineering (Untill last 3-4 days)
+  - Different problems need different feature engineering.
+![](../images/feature_engineering.png)
+- Modeling
+![](../images/modeling.png)
+  - Different problems need different modeling.
+  - Ensembling: 
+    - All this time, prediction on internal validation and test **are saved** (i.e .csv files).
+    - Different ways to combine from averaging to stacking.
+    - Small data requires simpler ensemble technique (i.e averaging)
+    - Bigger data can utilize stacking. Stacking process repeats the modeling process (can be automated to some extent).
+  - Tips on collaboration:
+    - It make things more fun.
+    - You learn more.
+    - You score better.
+    - Start collaborating after some experience (2-3 competitions) to understand the dynamics.
+    - Start with people around your 'rank'
+    - Look for people that are likely to do different things well or 'famous' at certain areas. These people will teach will a lot.
+  - Selecting a submission:
+    - Select best submission locally and best on leaderboard. 
+    
+
+    
+  
+ 
+  
+  
+  
+  
+  
+  
+  
