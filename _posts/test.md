@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "TEST"
 permalink: hamhochoi.github.io/test
 ---
