@@ -1,3 +1,9 @@
+---
+layout: page
+title: "blog"
+permalink: hamhochoi.github.io/blog
+---
+
 
 Hyperparameter Tuning: 
 XGBoost / LightBGM: 
