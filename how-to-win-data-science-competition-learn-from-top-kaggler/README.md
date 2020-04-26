@@ -4,7 +4,7 @@ title: README
 permalink: /how-to-win-data-science-competition
 ---
 
-My notes from [this](https://www.coursera.org/learn/competitive-data-science/home/welcome) course!
+My notes from [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science/home/welcome) course!
 
 - Week 1: [this](../_posts/how-to-win-data-science-competition-learn-from-top-kaggler/2020-04-27-week1.md)
 - Week 2: [this](../_posts/how-to-win-data-science-competition-learn-from-top-kaggler/2020-04-27-week2.md)
