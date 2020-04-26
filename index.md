@@ -10,4 +10,4 @@ This is my blog
 - [GitHub Pages](https://github.com/hamhochoi)
 - Data Analytics
 
-## [My blog](/_posts/2011-12-31-new-years-eve-is-awesome.md)
+## [My blog](/blog.md)
